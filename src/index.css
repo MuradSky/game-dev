@@ -1,0 +1,9 @@
+body {
+    background-color: #242424;
+	margin: 0;
+	padding: 0;
+}
+
+*, *::before, *::after {
+	box-sizing: border-box;
+}
